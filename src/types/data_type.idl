@@ -1,0 +1,4 @@
+struct discovery_server {
+	unsigned long id;
+	string msg;
+};
